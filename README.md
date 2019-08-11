@@ -14,7 +14,7 @@ My intake in Quantum Cryptography, is that we need to go beyond the realm of exp
 
 [![Image](https://i.imgur.com/aQEy113.gif)](https://www.wolframalpha.com/input/?i=4n!%2F(2!)%5En)
 
-I am proposing this sequence for the purpose of multi-path layer mathematical recursion/continued hashing for Post-Qauntum networks. Reason (4n) as in representation of the original Qubit encryption layer. Wanted to come up with a new sequence similar to Bernoulli numbers but non-existant.
+I am proposing this sequence for the purpose of multi-path layer mathematical recursion/continued hashing for Post-Qauntum networks. Reason (4n) as in representation of the original Qubit encryption layer. Wanted to come up with a new sequence similar to Bernoulli numbers but non-existent.
 
 Proposal OEIS (Pending/Draft): https://oeis.org/A309669
 
