@@ -15,3 +15,16 @@ My intake in Quantum Cryptography, is that we need to go beyond the realm of exp
 [![N|Solid](https://i.imgur.com/aQEy113.gif)](https://www.wolframalpha.com/input/?i=4n!%2F(2!)%5En)
 
 I am proposing this sequence for the purpose of multi-path layer mathematical recursion/continued hashing for Post-Qauntum networks. Reason (4n) as in representation of the original Qubit encryption layer. Wanted to come up with a new sequence similar to Bernoulli numbers but non-existant.
+
+Proposal OEIS (Pending/Draft): https://oeis.org/A309669
+
+Current Hashing Mathods:
+
+     Lattice-based cryptography
+     Multivariate cryptography
+     Hash-based cryptography
+     Code-based cryptography
+     Supersingular elliptic curve isogeny cryptography
+     Symmetric key quantum resistance
+     
+This variation would be Merkle based inspired by my current Hardware cryptography solution for classical computing i.e. HippaSafe2.0 and utilize theoretical hashing. For offset N = -1, you are set with the lowest value of -∞. I wanted to make a non-existant sequence for hashing sort of inspired by Bernoulli numbers.
