@@ -5,7 +5,7 @@ Quantum Cryptography is a newly emerging field in engineering, with post-quantum
 
 My intake in Quantum Cryptography, is that we need to go beyond the realm of explaining this in classical terminology. We are talking about a whole new method and apparatus of data processing in general. This is why we need to look into recursive Qubit compatible hardware encryption through pure mathematics, computational physics, and what is possible in the realm of modern day computing.
 
-#### My proposed hashing sequence: (4n!/(2!)^n)[https://www.wolframalpha.com/input/?i=4n!%2F(2!)%5En]
+#### My proposed hashing sequence: [4n!/(2!)^n](https://www.wolframalpha.com/input/?i=4n!%2F(2!)%5En)
 ##### At N = 0
 
 <p align="center">
