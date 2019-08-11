@@ -18,7 +18,7 @@ I am proposing this sequence for the purpose of multi-path layer mathematical re
 
 Proposal OEIS (Pending/Draft): https://oeis.org/A309669
 
-Current Hashing Mathods:
+Current Hashing Methods: (Source: Wikipedia)
 
      Lattice-based cryptography
      Multivariate cryptography
