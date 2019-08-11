@@ -27,4 +27,4 @@ Current Hashing Methods: (Source: Wikipedia)
      Supersingular elliptic curve isogeny cryptography
      Symmetric key quantum resistance
      
-This variation would be Merkle based inspired by my current Hardware cryptography solution for classical computing i.e. HippaSafe2.0 and utilize theoretical hashing. For offset N = -1, you are set with the lowest value of -∞. I wanted to make a non-existant sequence for hashing sort of inspired by Bernoulli numbers.
+This variation would be Merkle based inspired by my current Hardware cryptography solution for classical computing i.e. HippaSafe2.0 and utilize theoretical hashing. For offset N = -1, you are set with the lowest value of -∞. I wanted to make a non-existent sequence for hashing sort of inspired by Bernoulli numbers.
