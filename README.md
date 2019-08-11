@@ -20,7 +20,10 @@ My intake in Quantum Cryptography, is that we need to go beyond the realm of exp
 
 I am proposing this sequence for the purpose of multi-path layer mathematical recursion/continued hashing for Post-Qauntum networks. Reason (4n) as in representation of the original Qubit encryption layer. Wanted to come up with a new sequence similar to Bernoulli numbers but non-existent.
 
-Proposal OEIS (Pending/Draft): https://oeis.org/A309669
+Old Proposal OEIS (Pending/Draft): https://oeis.org/A309669
+
+###### Forgot that this is a non-integer sequence so made the equation: (4^n^2)+n! for multilayer hashing with a -∞ infinity proof at n = -1 (Infinity is can be viewed as is or isn't an integer)
+New Proposal: https://oeis.org/A309675
 
 Current Hashing Methods: (Source: Wikipedia)
 
