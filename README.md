@@ -1,2 +1,6 @@
 # Proposal for Engineering's New Field
 ### Quantum Cryptography and its subset Quantum Recursiveness
+
+Quantum Cryptography is a newly emerging field in engineering, with post-quantum crytography algorithms already being processed for standarization. This has "spawned" from Quantum Engineering. However, in this day in age there needs to be a past theoretical approach into looking at post Quantum-level encryption. With Quantum Cryptography, you are making room for Quantum Recursiveness, which something I found interesting was K. Svozil's [Quantum recursion theory](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.263.9717) which he published in 2009.
+
+My intake in Quantum Cryptography, is that we need to go beyond the realm of explaining this in classical terminology. We are talking about a whole new method and apparatus of data processing in general. This is why we need to look into recursive Qubit compatible hardware encryption through pure mathematics, computational physics, and what is possible in the realm of modern day computing.
