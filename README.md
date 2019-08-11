@@ -8,11 +8,11 @@ My intake in Quantum Cryptography, is that we need to go beyond the realm of exp
 #### My proposed hashing sequence: 4n!/(2!)^n
 ##### At N = 0
 
-[![N|Solid](https://i.imgur.com/X76p37y.gif)](https://www.wolframalpha.com/input/?i=4n!%2F(2!)%5En)
+[![Image](https://i.imgur.com/X76p37y.gif)](https://www.wolframalpha.com/input/?i=4n!%2F(2!)%5En)
 
 ##### At N =  ∞
 
-[![N|Solid](https://i.imgur.com/aQEy113.gif)](https://www.wolframalpha.com/input/?i=4n!%2F(2!)%5En)
+[![Image](https://i.imgur.com/aQEy113.gif)](https://www.wolframalpha.com/input/?i=4n!%2F(2!)%5En)
 
 I am proposing this sequence for the purpose of multi-path layer mathematical recursion/continued hashing for Post-Qauntum networks. Reason (4n) as in representation of the original Qubit encryption layer. Wanted to come up with a new sequence similar to Bernoulli numbers but non-existant.
 
