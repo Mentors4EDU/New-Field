@@ -40,7 +40,6 @@ This variation would be Merkle based inspired by my current Hardware cryptograph
 <p align="center">
   <img width="55%" height="55%" src="https://i.imgur.com/QT6yU01.gif">
 </p>
-#### This would obviously be based off the original non-integer sequence of 4n!/(2!)^n
 
-
-Anyways, I think applying these sequential techniques mathematically into Quantum Cryptography to create recursive post-Quantum hardware key encryption is the way to go. I also think these types of formalities offer insight into resursive and sequential hashing for Qubit based processing.
+Anyways, I think applying these sequential techniques mathematically into Quantum Cryptography to create recursive post-Quantum     hardware key encryption is the way to go. I also think these types of formalities offer insight into resursive and sequential hashing for Qubit based processing.
+#### The above table equation is obviously be based off the original non-integer sequence of 4n!/(2!)^n
