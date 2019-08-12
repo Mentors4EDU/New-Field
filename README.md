@@ -35,3 +35,9 @@ Current Hashing Methods: (Source: Wikipedia)
      Symmetric key quantum resistance
      
 This variation would be Merkle based inspired by my current Hardware cryptography solution for classical computing i.e. HippaSafe2.0 and utilize theoretical hashing. For offset N = -1, you are set with the lowest value of -∞. I wanted to make a non-existent sequence for hashing sort of inspired by Bernoulli numbers.
+
+#### Another possible expansion was the new equation (4n!/(2!)^n*2)^n:
+<p align="center">
+  <img width="55%" height="55%" src="https://i.imgur.com/QT6yU01.gif">
+</p>
+#### This would obviously be based off the original non-integer sequence of 4n!/(2!)^n
